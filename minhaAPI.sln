@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minhaAPI", "minhaAPI\minhaAPI.csproj", "{07427E30-C882-4F5C-A617-3FEB63CE465A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07427E30-C882-4F5C-A617-3FEB63CE465A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07427E30-C882-4F5C-A617-3FEB63CE465A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07427E30-C882-4F5C-A617-3FEB63CE465A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07427E30-C882-4F5C-A617-3FEB63CE465A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57F07532-56A0-4713-B95C-A2DF2EF06C19}
+	EndGlobalSection
+EndGlobal
